@@ -9,6 +9,7 @@
 Repositorio local → GitHub
 GitHub → Repositorio local.
 * Comandos utilizados:
+
 |COMANDO|FUNCION|
 |---|---|
 |cd ~|Regresa a la carpeta principal del usuario.|
